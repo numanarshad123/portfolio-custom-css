@@ -14,9 +14,9 @@ const Hero = () => {
 
         <div className="hero-text">
           <div className="hero-msin"> 
-            <p data-aos="zoom-in-up">I am</p>
-            <p data-aos="zoom-in-up">Numan</p>
-            <p data-aos="zoom-in-up">Arshad</p>
+            <p data-aos="zoom-in-up">I am </p>
+            <p data-aos="zoom-in-up">Numan </p>
+            <p data-aos="zoom-in-up">Arshad </p>
           </div>
         </div>
       </div>
